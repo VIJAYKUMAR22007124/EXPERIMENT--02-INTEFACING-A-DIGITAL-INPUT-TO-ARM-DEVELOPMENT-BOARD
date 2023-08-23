@@ -144,7 +144,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  <BR>
 ![image](https://github.com/VIJAYKUMAR22007124/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119657657/f6362d9d-26f6-4842-bbdb-e2b511d3f8a6)
 <BR>
-<BR>
+
 SWITCH ON :
 <BR>
 <BR>
