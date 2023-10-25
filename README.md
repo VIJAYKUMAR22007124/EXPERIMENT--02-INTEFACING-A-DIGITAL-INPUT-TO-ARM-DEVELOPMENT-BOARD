@@ -2,7 +2,7 @@
 B.VIJAY KUMAR
 212222230173
 ```
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+# EXPERIMENT 02 : INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim:
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required:
@@ -142,13 +142,15 @@ void assert_failed(uint8_t *file, uint32_t line)
  SWITCH OFF :
  <BR>
  <BR>
-![image](https://github.com/VIJAYKUMAR22007124/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119657657/f6362d9d-26f6-4842-bbdb-e2b511d3f8a6)
+
+<img src="https://github.com/VIJAYKUMAR22007124/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119657657/f6362d9d-26f6-4842-bbdb-e2b511d3f8a6.png" width="450" height="450">
 <BR>
 
 SWITCH ON :
 <BR>
 <BR>
-![image](https://github.com/VIJAYKUMAR22007124/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119657657/f237510e-ec3a-481f-9372-5c0180775fda)
+
+<img src="https://github.com/VIJAYKUMAR22007124/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119657657/f237510e-ec3a-481f-9372-5c0180775fda.png" width="450" height="450">
 
  
 ## Result :
